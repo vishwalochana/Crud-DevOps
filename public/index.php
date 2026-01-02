@@ -7,7 +7,6 @@
 </head>
 <body>
     <?php include 'includes/header.php'; ?>
- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, quae? Perferendis id aliquam, magni, odio nesciunt delectus quae repudiandae reprehenderit at sed assumenda porro qui sit quos atque, illo veritatis? </p>
     <?php include 'includes/footer.php'; ?>
 </body>
 </html>
