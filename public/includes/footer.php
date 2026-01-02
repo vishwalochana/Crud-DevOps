@@ -14,17 +14,18 @@
     </ul>
 
     <div class="country-selector">
-      <button class="current-country">🌎 Select Region</button>
-      <ul class="country-list">
-        <li data-country="US">United States</li>
-        <li data-country="UK">United Kingdom</li>
-        <li data-country="CA">Canada</li>
-        <li data-country="AU">Australia</li>
-        <li data-country="IN">India</li>
-      </ul>
+      <select class="country-dropdown">
+        <option value="" disabled selected>🌎 Select Region</option>
+        <option value="US">United States</option>
+        <option value="UK">United Kingdom</option>
+        <option value="CA">Canada</option>
+        <option value="AU">Australia</option>
+        <option value="IN">India</option>
+      </select>
     </div>
   </div>
 </footer>
+
 
 
 <script src="js/main.js"></script>

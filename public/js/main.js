@@ -40,7 +40,4 @@ window.addEventListener("scroll", () => {
   } else {
     footer.style.boxShadow = "inset 0 1px 2px rgba(255,255,255,0.4), 0 -10px 30px rgba(0,0,0,0.35)";
   }
-});
-
-
-
+});      
