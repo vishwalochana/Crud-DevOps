@@ -1,5 +1,5 @@
 <head>
- <link rel="stylesheet" href="assets/css/header.css">
+ <link rel="stylesheet" href="public/css/header.css">
 </head>
 
 <header class="navbar">
@@ -30,4 +30,4 @@
 </div>
 </header>
 
-<script src="assets/js/header.js"></script>
+<script src="public/js/header.js"></script>
