@@ -1,13 +1,33 @@
 <head>
-    <title>DevOps</title>
-    <link rel="stylesheet" href="css/style.css">
+ <link rel="stylesheet" href="assets/css/header.css">
 </head>
-<header>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
- </header>
+
+<header class="navbar">
+
+  <div class="burger">
+    <span></span>
+    <span></span>
+  </div>
+
+  <div class="glass-highlight"></div>
+
+  <ul class="nav-links">
+    <li>Home</li>
+    <li>About</li>
+    <li>Projects</li>
+    <li>Contact</li>
+  </ul> 
+
+</header>
+
+<div class="mobile-menu">
+  <ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Projects</li>
+    <li>Contact</li>
+  </ul>
+</div>
+</header>
+
+<script src="assets/js/header.js"></script>

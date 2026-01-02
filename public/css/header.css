@@ -1,0 +1,26 @@
+*{
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(120deg, #0f0f14, #2a2a38);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.navbar{
+    position: fixed;
+    top: 24px;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+}
